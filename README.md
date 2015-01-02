@@ -21,3 +21,8 @@ make release       builds in release mode
 - custom definition of block length
 - number of parity bits
 - interleaving with custom stack size
+
+## Contact and credits
+                             
+**Author:**    Radim Loskot  
+**gmail.com:** radim.loskot (e-mail)
